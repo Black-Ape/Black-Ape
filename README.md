@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋
+
+(-_+)
+
+Welcome to my ✨ special ✨ GitHub profile.
+
+🌱 Software Development & UI/UX Design
+⚡ Coding will soon be as important as reading
