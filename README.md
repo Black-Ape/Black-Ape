@@ -3,7 +3,7 @@
 <h1>Welcome to my ✨ special ✨ GitHub profile.</h1>
 
 🌱 Software Development & UI/UX Design
-⚡ Coding will soon be as important as reading
+⚡ Coding will soon be as important as reading.
 
 
 <!--
