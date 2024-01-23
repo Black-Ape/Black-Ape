@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Welcome to my ✨ special ✨ GitHub profile.
+Welcome to my ✨ special ✨ GitHub profile.
 
 🌱 Software Development & UI/UX Design
 ⚡ Coding will soon be as important as reading
