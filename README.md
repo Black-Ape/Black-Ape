@@ -6,7 +6,7 @@
 ⚡ Coding will soon be as important as reading.
 
 <label>website: <a href="https://spkhumalo.co.za/">www.spkhumalo.com</a></label>
-<label><i class="bi bi-whatsapp"></i>website: <a href="https://spkhumalo.co.za/">www.spkhumalo.com</a></label>
+<label>website: <a href="https://spkhumalo.co.za/"><i class="bi bi-whatsapp"></i> www.spkhumalo.com</a></label>
 
 <!--
 **Black-Ape/Black-Ape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
