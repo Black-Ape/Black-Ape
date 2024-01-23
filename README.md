@@ -5,7 +5,7 @@
 🌱 Software Development & UI/UX Design
 ⚡ Coding will soon be as important as reading.
 
-<a href="https://spkhumalo.co.za/">www.spkhumalo.com</a>
+<label>website: <a href="https://spkhumalo.co.za/">www.spkhumalo.com</a></label>
 
 <!--
 **Black-Ape/Black-Ape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
