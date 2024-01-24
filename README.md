@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Jobboard App**
  
- 🌱 I’m currently learning **Docker, Flutter, React**
+ 🌱 I’m currently learning **Docker, Flutter**
 
 💬 Ask me about **Coding... or anything [here](https://github.com/black-ape/black-ape/issues)**
 
